@@ -1,0 +1,11 @@
+Microsoft.Bcl.AsyncInterfaces.6.0.0
+Oracle.ManagedDataAccess.19.23.0
+System.Buffers.4.5.1
+System.Formats.Asn1.9.0.0
+System.Memory.4.5.5
+System.Numerics.Vectors.4.5.0/lib
+System.Runtime.CompilerServices.Unsafe.6.0.0
+System.Text.Encodings.Web.6.0.0
+System.Text.Json.6.0.1
+System.Threading.Tasks.Extensions.4.5.4
+System.ValueTuple.4.5.0
